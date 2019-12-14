@@ -1,0 +1,69 @@
+body {
+    background-image: url("Assets/Images/coding-laptop-1.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+  h3{
+      text-align: center;
+  }
+  p { 
+      color: blue;
+      align: center;
+      text-align: center;     
+  }
+
+.info {
+    background: coral;
+    /* margin-top: 20px; */
+    /* padding-top: 40px; */
+    /* padding-bottom: 40px; */
+    padding: 70px;
+}
+
+.photo{
+    text-align: center;     
+
+}
+
+.container_about {
+    background: white;
+    margin-top: 10px;
+    /* padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px; */
+    padding: 80px;
+
+}
+
+.container_experience {
+    background: white;
+    margin-top: 10px;
+    /* padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px; */
+    padding: 80px;
+
+}
+
+.projectRow2 {
+    padding-top: 20px;
+    align: center;
+}
+
+.Project1 {
+    padding-right: 40px;;
+}
+
+.Project2 {
+    padding-right: 40px;;
+}
+.Project3 {
+    /* padding-right: 20px;; */
+}
